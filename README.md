@@ -1,6 +1,4 @@
 # Advanced Editor for ArcViewGIS
-Advanced Vector Editor for ArcViewGIS 3.2
-
 Advanced Editor – is an extension, which provide a new approach to the ArcViewGIS editing.
 
 Key features:
